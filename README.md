@@ -1,28 +1,35 @@
-Introduction
-This project is a system where users can log in with different roles, manage devices, and manipulate their personal profiles.
+## Introduction
 
-Features
-Authentication
-User Authentication: Users can log in and log out of the system.
-Role-based Authentication: Different roles such as Admin and Super Admin are available for users.
-User Management
-Super Admin User Management:
-Super Admins can add new users and assign roles.
-Device Management
-CRUD Operations on Devices:
-Users can perform Create, Read, Update, and Delete operations on devices.
-Device Listing and Viewing:
-Devices can be listed and viewed individually.
-Personal Profile Management
-Profile Editing:
-Users can edit their personal profiles.
-Data Management
-Seeder for Generating Fake Data:
-Seeders are provided to generate fake data for devices.
-Data Listing and Export:
-Device data can be listed and exported in Excel or Word formats.
-Data Visualization:
-Graphs and charts are available to visualize device data.
+This project is a system designed to facilitate user authentication, role-based access control, device management, personal profile editing, and data manipulation.
+
+## Features
+
+**Authentication**
+- User Authentication: Users can log in and log out of the system.
+- Role-based Authentication: Administrators and Super Administrators have distinct access levels.
+
+**User Management**
+- Super Admin User Management:
+  - Super Admins can add new users and assign roles.
+
+**Device Management**
+- CRUD Operations on Devices:
+  - Users can perform Create, Read, Update, and Delete operations on devices.
+- Device Listing and Viewing:
+  - Devices can be listed and viewed individually.
+
+**Personal Profile Management**
+- Profile Editing:
+  - Users can edit their personal profiles.
+
+**Data Management**
+- Seeder for Generating Fake Data:
+  - Seeders are provided to generate fake data for devices.
+- Data Listing and Export:
+  - Device data can be listed and exported in Excel or Word formats.
+- Data Visualization:
+  - Graphs and charts are available to visualize device data.
+
 
 
 
